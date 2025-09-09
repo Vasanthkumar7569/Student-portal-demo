@@ -1,2 +1,2 @@
-# Student-portal-demo
+# Student
 Basic idea for a student 
