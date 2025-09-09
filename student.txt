@@ -6,8 +6,8 @@ Welcome to the Demo Portal!
 
 [Login Section]
 ----------------
-Username: ____________
-Password: ____________
+Username: kumar
+Password: ganesh
 [Login Button]
 
 [Navigation Menu]
@@ -37,4 +37,5 @@ Quick Stats:
 ✔ Submit Requests  
 ✔ Track Progress  
 ✔ Receive Notifications  
+
 
